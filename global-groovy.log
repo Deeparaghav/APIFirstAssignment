@@ -1,0 +1,11 @@
+2020-07-23 19:31:00,357 INFO  [log] null
+2020-07-23 19:31:00,384 INFO  [log] Test case fail 
+2020-07-23 19:31:01,256 INFO  [log] Rows:1 & columns:1
+2020-07-23 19:31:01,527 INFO  [log] com.eviware.soapui.impl.wsdl.testcase.WsdlTestCase@76a6f670
+2020-07-23 19:31:01,535 INFO  [log] msdeepas26@gmail.com
+2020-07-23 19:31:10,094 INFO  [log] null
+2020-07-23 19:31:10,095 INFO  [log] Test case fail 
+2020-07-23 19:31:10,679 INFO  [log] The customer emails are msdeepashree@gmail.com
+2020-07-23 19:31:10,685 INFO  [log] The customer emails are dhwiti@gmail.com
+2020-07-23 19:31:18,661 INFO  [log] null
+2020-07-23 19:31:18,661 INFO  [log] Test case fail 
